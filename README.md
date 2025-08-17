@@ -1,72 +1,14 @@
-# Induction### GNDEC Ludhiana — Induction Program Report
+Induction-Day 1
+Branch computer science engineering DAY 1 Time: 8:30 A.M. onward The day began at 8:30 A.M. with a peaceful and soothing Shabad Kirtan, followed by tea and snacks around 9:30 A.M.. The inaugural ceremony started at 10:00 A.M.. We were given a warm welcome by our teachers, seniors, and staff, setting a positive tone for the journey ahead. Later, Er. Rakesh Kumar (1991 alumni, ADC Ludhiana) and Sh. Rajivder Garg (Municipal Corporation, Ludhiana) shared inspiring words. Alumni encouraged us to be bold, stay motivated, and keep moving forward. A guest speaker also introduced a loan scheme to support students with financial challenges. The HOD of Applied Sciences gave us insights into how our next 4 years would shape up — starting with our first year in this department before we move on to our core CSE classes.
 
-# Day 1 (30 July 2025)   
+DAY 2 Time: 9:30 A.M. onward The day began with the English Proficiency Test at 9:30 A.M., followed by the Maths Proficiency Test from 10:30 A.M. to 11:30 A.M. — both conducted in our respective classrooms. After a short break, we attended an expert lecture by Dr. Arashdeep Singh on "Food: A Pivotal Role in Student's Overall Wellness", which emphasized the importance of mindful eating and health during student life. Later, from 2:00 P.M. to 3:00 P.M., we participated in an energetic session hosted by the Causmic Club, where the induction activities were officially launched. The day was a mix of academic evaluation and insightful engagement, helping us connect with the institute's values and student life.
 
----
+DAY 3 Time: 9:00 A.M. onward The day began with an enlightening session by Dr. Jaswinder Singh, who emphasized discipline, healthy habits, and the importance of mindset in a student’s life.He made us realize that *Mathematics exists everywhere in the world from subjects to daily life. He performed a couple of physics experiments too which were quite fun to watch. Then, we had an expert lecture by Dr. Priya Darshani Ma’am on Universal Human Values, where she raised thought-provoking questions like “Does money really make us happy?” and “How important are relationships and inner peace?” Her words reminded us to focus not just on academics, but also on mental health, self-reflection, and being a better human as an engineer.
 
-## 🗓️ Induction Day Summary
+DAY 4 Time: 9:30 A.M. onward The day started with P2P classes taught by two seniors from the IT department, where we learned the basics of C++ syntax. At 10:30 A.M., we attended an English lecture by Prof. Manjot Kaur, where she focused on tenses and conducted an interactive introduction session to understand our names, hobbies, strengths, and weaknesses. Later, at 12:30 P.M., we had an expert lecture by Dr. Priya Darshani Ma’am on Universal Human Values, discussing the difference between temporary and permanent happiness and how we may use certain distractions to escape depression which isn't right. The day ended with a session by the Causmic Club at 2:30 P.M., where they shared their history, achievements, and upcoming goals.
 
-### 08:30 – 09:30 AM 🏛 Visit to Gurudwara Sahib  
-We began the day with a peaceful visit to the Gurudwara Sahib situated within the GNDEC campus. It was a spiritually grounding moment to kickstart our journey.
+DAY 5 Time: 10:30 A.M. onward The day started with our BEEE (Basic Electrical and Electronics Engineering) class at 10:30 A.M., conducted by Prof. Harminder Kaur. She took our introductions and gave us a general idea of the subject. Then at 11:30 A.M., we had our Chemistry class with Prof. Mandeep Kaur. She gave us insights about what our college journey would look like and also touched upon a few basic chemistry concepts. After lunch, at 2:00 P.M., we were called to the TCC Sem Hall for ID card formalities. We had to submit our details and get a live photo clicked which would be used for our college ID cards.
 
----
+DAY 6 Time: 9:30 A.M. onward The day began with our Chemistry Lecture at 9:30 A.M. in our classroom, where Prof. Mandeep Kaur continued teaching us the basics of the subject. After that, at 10:30 A.M., we had a Maths Lecture by Prof. Gagandeep Kaur, where we were introduced to foundational mathematical concepts. At 11:30 A.M., we had a break before heading to the Auditorium sessions. Then at 1:30 P.M., a elderly member of Nankana Sahib Trust praised our college. Lastly, from 2:30 to 4:00 P.M., we attended a session by Dr. Lakhvir Singh Khana, where we discussed career management and leadership qualities essential for engineering students. We were told about NPTEL's online courses and how they could be helpful in our future.
 
-### 10:30 – 12:30 PM 🎤 Induction Seminar in the Auditorium  
-The formal induction session was held in the college auditorium and hosted by **Harsimran ma’am**. Several dignitaries and professors addressed us. Below is the summary of the key speakers:
-
----
-
-#### 1️⃣ **Harsimran Singh Jaggi**  
-**Topic:** About GNDEC’s Establishment  
-- History and legacy of GNDEC  
-- Achievements of the institute  
-- GNDEC’s contribution to society and students' growth  
-- Overview of campus life and available facilities  
-
----
-
-#### 2️⃣ **Dr. Harpreet Kaur**  
-**Topic:** Role of the First Year and Applied Science  
-- How the four years in college shape our future  
-- Applied Sciences as a bridge between school-level learning and core engineering subjects  
-
----
-
-#### 3️⃣ **Dr. Akshay Girdhar**  
-**Topic:** Life Beyond Engineering  
-- Importance of extracurriculars  
-- Developing discipline and balance through co-curricular involvement  
-- Encouragement to explore societies and clubs  
-
----
-
-#### 4️⃣ **Harleen Kaur**  
-**Topic:** Mindset and Purpose  
-- Build a strong and focused mindset  
-- Stay aligned with your goals — the universe supports those with purpose  
-
----
-
-#### 5️⃣ **Dr. Shehejpal (Principal)**  
-**Topic:** Engineering's Role in Society  
-- Engineers as builders of society  
-- The growing role of AI in industries  
-- Increasing competition in CSE and IT fields  
-- Emphasis on adding value to ourselves beyond academics  
-
----
-
-#### 6️⃣ **Sri Ravinder Garg (Chief Engineer, Municipal Office)**  
-**Topic:** Personal Discipline  
-- Stay away from distractions and bad habits  
-- Work hard consistently throughout college  
-- Pray daily for mental and spiritual clarity  
-
----
-
-#### 7️⃣ **Dr. Kulwinder Singh Maan (HOD, IT)**  
-**Topic:** CS vs IT – Clarification  
-- No need to differentiate between CS and IT  
-- Both offer equal opportunities if pursued sincerely  
-
----
+DAY 7 Time: 9:30 A.M. onward The day began with a series of motivational lectures in the auditorium. First, Dr. Amit Kamra addressed us about Digital Marketing Club from 9:30 to 10:30 A.M., followed by a session on student welfare by Dr. Parminder Singh. At 11:30 A.M., Dr. Randhir Singh explained the "Conduct of Examinations" and academic integrity. After the lunch break, at 1:30 P.M., we had a BEEE lecture by Prof. Harminder Kaur where she gave us insights into the basics of circuits. Then, instead of the scheduled maths lecture, we had our P2P session where seniors continued teaching us C++, covering loops and conditionals.
